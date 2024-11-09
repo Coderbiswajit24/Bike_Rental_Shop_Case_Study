@@ -32,7 +32,7 @@ Prerequisites
 
 Database Access: Ensure that the database containing the bike rental shop data is accessible. Connection configurations might be required depending on the setup.
 
-SQL Client: Install a preferred SQL client (e.g., pgAdmin, DBeaver) or use an IDE with SQL support.
+SQL Client: Install a preferred SQL client (e.g., pgAdmin, DBeaver) or use an IDE with SQL support. Here I'm Using PgAdmin4 PostgreSQL managment tool for this project.
 
 
 Usage
@@ -44,4 +44,3 @@ Usage
 
 
 3. Execute the queries in sequence as per the business questions.
-4.
